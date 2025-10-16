@@ -1,2 +1,0 @@
-# blog-sitem
-BLOG
